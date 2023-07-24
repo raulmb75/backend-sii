@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.sii.aspirantes.aspirantes.Repository.AspiranteRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.552 s <<< FAILURE! - in com.sii.aspirantes.aspirantes.Repository.AspiranteRepositoryTest
+conteoDeSolicitudes  Time elapsed: 0.229 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.sii.aspirantes.aspirantes.Repository.AspiranteRepositoryTest.conteoDeSolicitudes(AspiranteRepositoryTest.java:117)
+

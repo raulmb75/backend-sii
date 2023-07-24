@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.sii.aspirantes.aspirantes.Service.MunicipioServiceTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.063 s <<< FAILURE! - in com.sii.aspirantes.aspirantes.Service.MunicipioServiceTest
+buscarPorClave  Time elapsed: 0.033 s  <<< ERROR!
+javax.persistence.EntityNotFoundException: Registro con clave MunicipioPK(claveEntidad=17, claveMunicipio=5) no encontrado
+	at com.sii.aspirantes.aspirantes.Service.MunicipioServiceTest.buscarPorClave(MunicipioServiceTest.java:20)
+
